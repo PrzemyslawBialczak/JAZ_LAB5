@@ -1,0 +1,11 @@
+rest\SearchResources.class
+rest\TestRest.class
+rest\ProductsResources.class
+domain\services\PersonService.class
+domain\ToDelete.class
+rest\ApplicationConfig.class
+domain\Car.class
+domain\Person.class
+domain\services\ProductService.class
+rest\PeopleResources.class
+domain\Product.class
